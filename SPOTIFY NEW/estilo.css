@@ -1,0 +1,435 @@
+/*=================LAYOUT AREA INDEX=================*/ 
+body{
+    background: #F8F8F8;
+}
+#areaindex{
+    background: url('https://www.scdn.co/i/home/lieVariants/bursts.svg') no-repeat, #2D46B9;
+    background-size: 175%;
+    background-position: 46% 4%;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    min-height: 846px;
+} /*=================LAYOUT AREA INDEX=================*/ 
+
+/*=================LAYOUT AREA PREMIUM=================*/ 
+#areapremium{
+    background-color: #1D75DE;
+}
+
+.conteudo-premium{
+    width: 100%;
+    background: #fff;
+}
+#conteudopremium{
+    background-color: #1D75DE;
+    height: 800px;
+    margin-top: -70px;
+    padding-top: 90px;
+}
+
+.conteudo-premium2{
+    width: 100%;
+    background: #F8F8F8;
+}
+
+/*=================LAYOUT AREA PREMIUM=================*/ 
+.areapremium{
+    margin: 150px 180px;
+}
+
+.h1premium{
+    text-align: center;
+    color: black;
+    padding: 30px;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+
+.porquepremium{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    padding: 100px;
+}
+
+.imagenspremium{
+    box-sizing: border-box;
+    display: block;
+}
+
+.musicimage{
+    margin:70px;
+    margin-bottom: 30px;
+}
+
+/**************TESTE****************/
+.teste1{
+    text-align: center;
+    padding: 50px 10px 130px 10px;
+    margin: 0 auto;
+}
+
+.teste2{
+    font-size: 19px;
+    font-weight: 600;
+    width: 100%;
+    padding-top: 15px;
+}
+
+.teste3{
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.porquep{
+    font-size: 45px;
+    text-align: center;
+    padding: 30px;
+    font-weight: 900;
+}
+
+.porquep2{
+    font-size: 35px;
+    text-align: center;
+    padding: 30px;
+    font-weight: 900;
+}
+
+.porquep3{
+    font-size: 18px;
+    text-align: center;
+    margin-top: -30px;
+    margin-bottom: 50px;
+}
+
+.plano1, .plano2, .plano3, .plano4{
+    background: #fff;
+    height: 900px;
+    margin: 0px 20px 0px 0px;
+    padding: 15px;
+    max-width: 272px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgb(34, 35, 38);
+    box-sizing: border-box;
+}
+
+.assinar-1mes{
+    border-radius: 4px;
+    font-size: 14px;
+    padding: 4px 8px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(46, 119, 208);
+    display: inline-block;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-right: 4px;
+}
+
+.planos-prepagos{
+    border: 1px solid #2E77D0;
+    border-radius: 4px;
+    color: #2E77D0;
+    display: inline-block;
+    padding: 4px 8px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+
+.conta1{
+    font-size: 16px;
+    margin-bottom: 60px;
+}
+
+.divisorhr{
+    align-self: stretch;
+    border-color: rgb(204, 204, 204);
+
+}
+
+.conteudoplano2{
+    color: #666769;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+.btn-comecar{
+    position: relative;
+    margin-top: 250px;
+    left: 25px;
+}
+
+.btn-comecar1{
+    position: relative;
+    margin-top: 84px;
+    left: 25px;
+}
+
+.btn-comecar2{
+    position: relative;
+    margin-top: 42px;
+    left: 25px;
+}
+
+.btn-comecar3{
+    position: relative;
+    margin-top: 230px;
+    left: 25px;
+}
+/**************TESTE****************/
+
+
+
+
+
+/* =================LOGO SPOTIFY AREA INDEX=================*/
+.img-logo{
+    height: 40px;
+    width: 132px;
+    display: block;
+    background: url('imagens/spotify.svg') no-repeat;
+    background-size: contain;
+    color: transparent;
+}
+/* =================LOGO SPOTIFY AREA INDEX=================*/
+
+
+/*=================CONFIG BARRA DE NAVEGACAO INDEX=================*/
+nav.navbar-preto{
+    padding: 15px 20px;
+    background: black;
+    border: none;
+}
+/*=================TAMANHO BARRA DE NAVEGACAO=================*/
+
+/*=================LOGO SPOTIFY NA BARRA DE NAV=================*/
+.navbar-brand{
+    padding: 5px 10px;
+}
+/*=================LOGO SPOTIFY NA BARRA DE NAV=================*/
+
+.divisor{
+    width: 1px;
+    height: 16px;
+    background: white;
+    margin: 16px 10px;
+}
+
+.navbar-inverse .navbar-nav > li > a{
+    color: #fff;
+    display: block;
+    font-weight: 700;
+    font-family: Circular, spotify-circular, Helvetica, Arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover{
+    color: rgb(4, 245, 4);
+}
+
+/* =================CAPA INDEX================= */
+.capa{
+    height: 100%;
+    width: 50%;
+    margin-left: 370px;
+    margin-top: 210px;
+}
+
+.texto-capa{
+    text-align: center;
+    color: white;
+}
+
+/*=================TIPOGRAFIAS=================*/
+
+/*=================TIPOGRAFIA AREA INDEX=================*/
+.escutar{
+    font-family: Circular, Helvetica, Arial, sans-serif, IsoFix; 
+    color: #1ED760;
+    font-size: 156px;
+    line-height: 166px;
+    margin-bottom: 40px;
+    letter-spacing: -0.04em !important;
+    font-weight: 900;
+}
+
+
+
+.paragrafo{
+    font-family: Circular, Helvetica, Arial, sans-serif, IsoFix;
+    color: #1ED760;
+    font-size: 18px;
+    margin-bottom: 40px;
+    font-weight: 400;
+    margin-top: -8px;
+} /*=================TIPOGRAFIA AREA INDEX=================*/
+
+/*=================TIPOGRAFIA AREA PREMIUM=================*/
+.premiumh1{
+    font-family: sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+    color: #fff;
+    letter-spacing: -5px;
+}
+
+.premiumh2{
+    font-family: sans-serif;
+    font-size: 23px;
+    color: #fff;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.25;
+    display: inline-block;
+    margin-top: 30px;
+}
+
+.virarpremium{
+    border: 1px solid red;
+    font-size: 46px;
+    font-weight: 900;
+    margin-top: 80px;
+    padding: 0;
+    display: inline-block;
+}
+/*=================TIPOGRAFIA AREA PREMIUM=================*/
+
+.titulo-rodape{
+    color: #919496;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: .08em;
+    margin: 20px 0;
+    line-height: 1.4;
+}
+
+.nav.conteudo-rodape > li > a{
+    color: white;
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 1.5;
+    background-color: transparent;
+    padding: 3px 0 15px;
+}
+
+.nav.conteudo-rodape > li > a:hover{
+    color: #1ED760;
+    font-size: 16px;
+    display: inline-block;
+    font-weight: 400;
+    text-decoration: none;
+    line-height: 1.5;
+    background-color: transparent;
+    padding: 3px 0 15px;
+}
+
+
+/*BOTOES*/
+.btn-custom{
+    font-family: Circular, Helvetica, Arial, sans-serif, IsoFix;
+    color: #2940A8;
+    background: #1ED760;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    padding: 20px 35px 13px 35px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    transition: background 0.4s;
+}
+
+.btn-custom:hover{
+    font-family: Circular, Helvetica, Arial, sans-serif, IsoFix;
+    color: #2940A8;
+    background: white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    text-transform: uppercase;
+    padding: 20px 35px 13px 35px;
+    font-size: 12px;
+    letter-spacing: 2px;
+    font-weight: 900;
+    transition: background 0.4s;
+}
+
+.btn-green{
+    background: #1ED760;
+}
+
+.btn-areapremium{
+    font-family: Circular, Helvetica, Arial, sans-serif, IsoFix;
+    color: #FFF;
+    background: rgb(22, 22, 22);
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    padding: 20px 50px 13px 50px;
+    font-size: 13px;
+    letter-spacing: 3px;
+    font-weight: 900;
+    transition: 33ms;
+}
+
+.btn-areapremium:hover{
+    font-family: Circular, Helvetica, Arial, sans-serif, IsoFix;
+    color: #FFF;
+    border: 2px solid black;
+    background: rgb(56, 56, 56);
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+    padding: 20px 50px 13px 50px;
+    font-size: 13px;
+    letter-spacing: 3px;
+    font-weight: 900;
+    transition: 33ms;
+}
+
+/*=================TIPOGRAFIA AREA INDEX=================*/
+footer{
+    margin-top: 180px;
+    padding-top: 80px;
+    background: black;
+    position: relative;
+    width: 100%;
+    height: 500px;
+}
+
+.item-rede-social{
+    float: right;
+}
+
+.item-rede-social:hover{
+    background: none;
+}
+
+.nav.rodape-final > li > a{
+    font-size: 12px;
+    color: #919496;
+    float: left;
+    text-decoration: none;
+    padding: 1px 1px 1px;
+    margin: 80px 20px 3px 1px;
+    background: transparent;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.nav.rodape-final > li > a:hover{
+    font-size: 12px;
+    color: #1ED760;
+    float: left;
+    text-decoration: none;
+    padding: 1px 1px 1px;
+    margin: 80px 20px 3px 1px;
+    background: transparent;
+    line-height: 1.5;
+    font-weight: 400;
+}
